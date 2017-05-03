@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">打印朋友圈</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="accessibility_name_printwx">打印微信朋友圈</string>
+    <string name="printwx_description">打印微信朋友圈</string>
+
+    <string name="accessibility_name_haodi">获取好递电话</string>
+    <string name="haodi_description">获取好递电话</string>
+
+</resources>
